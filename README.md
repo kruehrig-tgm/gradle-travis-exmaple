@@ -1,3 +1,9 @@
+## Helpful Links
+**Gradle Guides:** https://gradle.org/guides/
+**Set up Gradle on your system:** https://guides.gradle.org/building-java-applications/
+
+**Set up Travis CI for your java apllications:** https://docs.travis-ci.com/user/getting-started
+
 ## Gradle
       159  cd gradle-travis-example/
       160  gradle init --type java-application
